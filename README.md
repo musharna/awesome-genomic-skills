@@ -10,16 +10,12 @@ A curated list of skills and MCP servers for working with AI coding agents (Clau
 
 ## Contents
 
-- [Awesome Genomic Skills ](#awesome-genomic-skills-)
-    - [What is a Skill and what is an MCP?](#what-is-a-skill-and-what-is-an-mcp)
-  - [Contents](#contents)
-  - [Bioinformatics and Genomics Agent Skills](#bioinformatics-and-genomics-agent-skills)
-  - [MCP Servers for Life Sciences](#mcp-servers-for-life-sciences)
-  - [AI Scientist and Research Agent Systems](#ai-scientist-and-research-agent-systems)
-  - [Benchmarks](#benchmarks)
-  - [General AI Coding Agent Skill Collections](#general-ai-coding-agent-skill-collections)
-  - [Other Notable Awesome Lists!](#other-notable-awesome-lists)
-  - [Contributing](#contributing)
+- [Bioinformatics and Genomics Agent Skills](#bioinformatics-and-genomics-agent-skills)
+- [MCP Servers for Life Sciences](#mcp-servers-for-life-sciences)
+- [AI Scientist and Research Agent Systems](#ai-scientist-and-research-agent-systems)
+- [Benchmarks](#benchmarks)
+- [General AI Coding Agent Skill Collections](#general-ai-coding-agent-skill-collections)
+- [Other Notable Awesome Lists!](#other-notable-awesome-lists)
 
 ## Bioinformatics and Genomics Agent Skills
 
