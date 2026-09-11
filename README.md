@@ -15,6 +15,7 @@ A curated list of skills and MCP servers for working with AI coding agents (Clau
   - [Contents](#contents)
   - [Bioinformatics and Genomics Agent Skills](#bioinformatics-and-genomics-agent-skills)
   - [MCP Servers for Life Sciences](#mcp-servers-for-life-sciences)
+  - [AI Scientist and Research Agent Systems](#ai-scientist-and-research-agent-systems)
   - [Benchmarks](#benchmarks)
   - [General AI Coding Agent Skill Collections](#general-ai-coding-agent-skill-collections)
   - [Other Notable Awesome Lists!](#other-notable-awesome-lists)
@@ -81,6 +82,14 @@ Existing registries and lists of MCP servers:
 
 MCP related tools: 
 - [BioinfoMCP](https://github.com/florensiawidjaja/BioinfoMCP) - Not strictly an MCP, a converter that auto-generates MCP servers from existing tool documentation, plus a benchmark of the converted tools. Preprint available [here](https://arxiv.org/abs/2510.02139)
+
+## AI Scientist and Research Agent Systems
+
+Standalone multi-agent applications that run end-to-end research workflows (e.g. hypothesis generation), rather than components you plug into your own agent.
+
+- [Co-Scientist](https://github.com/Kaimen-Inc/Co-Scientist)
+  - **Description:** Independent implementation of Google DeepMind's AI co-scientist; takes a natural-language research goal and returns a tournament-ranked overview of novel hypotheses via six agents (Generation, Reflection, Elo-tournament Ranking, Evolution, Proximity, Meta-review) under a Supervisor. Grounds hypotheses with PubMed, arXiv, Europe PMC, and web search (with URL provenance logging), and uses a pinned copy of DeepMind's [science-skills](https://github.com/google-deepmind/science-skills). Runs on an LLM API key (OpenRouter, Anthropic, OpenAI, Gemini) or a Claude Code / Codex subscription; includes a cross-model benchmarking harness. General-science rather than genomics-specific. Apache-2.0.
+  - **Developers:** Kaimen Inc, co-founded by Kuan-Lin Huang ([Huang Lab | Precision Omics](https://labs.icahn.mssm.edu/kuanhuanglab/), Icahn School of Medicine at Mount Sinai); not affiliated with Google or the AI co-scientist paper's authors.
 
 ## Benchmarks
 
